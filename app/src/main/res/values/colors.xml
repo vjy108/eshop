@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#039be5</color>
+    <color name="colorPrimaryDark">#039be5</color>
+    <color name="colorAccent">#039be5</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorTransparentBlack">#99000000</color>
+    <color name="colorWhiteTransparent">#99ffffff</color>
+    <color name="colorPink">#1F1A1C</color>
+    <color name="colorTransparent">#0000ffff</color>
+
+
+    <color name="price_text_color">@android:color/holo_red_dark</color>
+    <color name="product_name_text_color">@android:color/black</color>
+
+
+
+    <!--my account related color -->
+    <color name="toolbar">#039be5</color>
+    <color name="my_account_color">#FFFF</color>
+    <color name="Text_color_heading_cardview">#070707</color>
+    <color name="Text_color_link_cardview">#00008b</color>
+
+
+    <color name="Orange">#FA5A2C</color>
+
+    <color name="list_products_price">#4d4d4d</color>
+    <color name="hint_label">#4E4E4E</color>
+    <color name="grey">#5b5b5b</color>
+
+</resources>

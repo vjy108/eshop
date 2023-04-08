@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "471568291455",
+    "firebase_url": "https://team-exocoetus-default-rtdb.firebaseio.com",
+    "project_id": "team-exocoetus",
+    "storage_bucket": "team-exocoetus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471568291455:android:549df282a9c2541549914a",
+        "android_client_info": {
+          "package_name": "com.developerdesk9.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471568291455-2gocdmhhc9tpj2ueeaqep9ukevs376ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD48dHtYRvi_Grqg32aST8-UJoSm8JciIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471568291455-2gocdmhhc9tpj2ueeaqep9ukevs376ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471568291455:android:cb64490febac5cae49914a",
+        "android_client_info": {
+          "package_name": "com.eshop.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471568291455-2gocdmhhc9tpj2ueeaqep9ukevs376ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD48dHtYRvi_Grqg32aST8-UJoSm8JciIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471568291455-2gocdmhhc9tpj2ueeaqep9ukevs376ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471568291455:android:1cab24052c58058749914a",
+        "android_client_info": {
+          "package_name": "com.exocoetus.convert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471568291455-vl4mnf4ob08atkarntrgadk46migctqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exocoetus.convert",
+            "certificate_hash": "bdc6afafa7cd7553f295ed9f6fcb939439195b71"
+          }
+        },
+        {
+          "client_id": "471568291455-2gocdmhhc9tpj2ueeaqep9ukevs376ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD48dHtYRvi_Grqg32aST8-UJoSm8JciIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471568291455-2gocdmhhc9tpj2ueeaqep9ukevs376ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
